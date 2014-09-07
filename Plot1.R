@@ -1,5 +1,5 @@
 #Read the data
-Source('ReadData')
+Source('ReadData.R')
 
 #Create and Open PNG File
 png(filename='plot1.png', width = 480, height = 480, units = "px")

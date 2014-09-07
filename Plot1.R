@@ -1,3 +1,7 @@
+#Read the data
+Source('ReadData')
+
+#Create and Open PNG File
 png(filename='plot1.png')
 
 # Make plot
